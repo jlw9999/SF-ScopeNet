@@ -4,7 +4,7 @@
 <img width="1677" height="848" alt="image" src="https://github.com/user-attachments/assets/19df0b0e-1fa3-4ad4-a894-edc305891e25" />
 
 The remaining model diagrams will be published after the paper is accepted.
-Building upon [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt), you can reproduce our method step by step as follows:
+Building upon [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt).
 
 ## Environments and Requirements
 - Ubuntu 20.04.3 LTS
