@@ -9,15 +9,15 @@ Building upon [MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt), you can r
 ## Environments and Requirements
 - Ubuntu 20.04.3 LTS
 - 12 vCPU Intel(R) Xeon(R) Platinum 8352V CPU @ 2.10GHz
-- RAM 1×1200GB; 320MT/s
+- RAM 1×1200GB, 320MT/s
 - GPU 1 NVIDIA RTX 4090 24G
-- CUDA version 11.3
-- python version 3.8.10
+- CUDA version 12.2
+- python version 3.9.7
 
 ## Dataset
-- MSD [link](https://github.com/MIC-DKFZ/MedNeXt).
-- BraTS2021 [link](https://github.com/MIC-DKFZ/MedNeXt).
-- BraTS2024 [link](https://github.com/MIC-DKFZ/MedNeXt).
+- MSD [link](http://medicaldecathlon.com/).
+- BraTS2021 [link](https://www.synapse.org/Synapse:syn25829067/wiki/610863).
+- BraTS2024 [link](https://www.synapse.org/Synapse:syn53708249/wiki/626323).
 
 ## Preprocessing
 
